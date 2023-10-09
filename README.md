@@ -14,7 +14,8 @@ Website features:
 
 *CRUD ( Create / Read / Update / Delete# Site
 
-Skills and deliverables
+Skills and deliverables :
+
 Bootstrap - CSS - JavaScript - HTML5 - PHP - MySQL
 
 ## demo video
