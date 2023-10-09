@@ -3,10 +3,15 @@
 Website features: 
 
 • CRUD* of users (admin/customer)
+
 • CRUD* of courses
+
 • CRUD* of purchases
+
 • Quick search / Search by filter 🔎
+
 • cart management 🛒
+
 *CRUD ( Create / Read / Update / Delete# Site
 
 Skills and deliverables
