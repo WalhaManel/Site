@@ -1,6 +1,6 @@
 # E-commerce website
 ## Project description
-Website features:
+Website features: //
 • CRUD* of users (admin/customer)
 • CRUD* of courses
 • CRUD* of purchases
