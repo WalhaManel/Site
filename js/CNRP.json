@@ -1,0 +1,36 @@
+[{
+        "id": "1",
+        "nom": "jatlaoui",
+        "prenom": "fedi",
+        "code_cnrps": "00012456",
+        "CIN": "12345678",
+        "applications_utilises": ["INSAF", "RACHED"]
+    },
+    {
+        "id": "5",
+        "nom": "benmehrez",
+        "prenom": "fedi",
+        "code_cnrps": "00012345",
+        "CIN": "74584897",
+        "applications_utilises": ["INSAF", "RACHED", "MAKHZOUN"]
+
+    },
+    {
+        "id": "2",
+        "nom": "ben mehrez",
+        "prenom": "achref",
+        "code_cnrps": "00011245",
+        "CIN": "87654321",
+        "applications_utilises": ["INSAF", "MAKHZOUN"]
+
+    },
+    {
+        "id": "3",
+        "nom": "fedi",
+        "prenom": "achref",
+        "code_cnrps": "00011111",
+        "CIN": "85415641",
+        "applications_utilises": ["INSAF", "MAKHZOUN", "RACHED", "MADANIA"]
+
+    }
+]
